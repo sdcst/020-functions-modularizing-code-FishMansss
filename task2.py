@@ -95,10 +95,9 @@ def draw():
         input()
         exit
 
-#title()
-#shuffle()
+
+##game :)
+title()
+shuffle()
 draw()
 
-if total > 21:
-     os.system('cls')
-     print("prolly a loss")
